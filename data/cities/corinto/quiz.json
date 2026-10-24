@@ -1,68 +1,62 @@
-{
-  "cityId": "corinto",
-  "cityName": "Corinto",
-  "quizTitle": "Desafío de Saberes: Corinto Histórico",
-  "quizDescription": "Evalúa tus conocimientos sobre la fundación portuaria, la defensa de la soberanía y el legado dariano en Corinto.",
-  "questions": [
-    {
-      "id": 1,
-      "question": "¿Cuál fue la causa determinante para que el gobierno nicaragüense ordenara el traslado de la aduana y puerto de El Realejo hacia Punta Icaco?",
-      "options": [
-        "La destrucción del antiguo puerto debido a la erupción del volcán San Cristóbal.",
-        "El azolvamiento y acumulación de sedimentos que impedía la navegación de barcos de vapor de gran calado.",
-        "Un ataque e incendio provocado por corsarios ingleses en 1858.",
-        "La construcción inmediata del ferrocarril interoceánico transistmico."
-      ],
-      "correctIndex": 1,
-      "explanation": "El lecho fluvial del río Doña Paula en El Realejo acumuló sedimentos que imposibilitaban el atraque seguro de buques de gran calado, obligando a reubicar la aduana en las aguas profundas de Punta Icaco."
-    },
-    {
-      "id": 2,
-      "question": "¿Qué gobernante promulgó el Decreto Ejecutivo del 20 de diciembre de 1858 que dio origen administrativo al asentamiento de Corinto?",
-      "options": [
-        "General José Santos Zelaya",
-        "General Tomás Martínez Guerrero",
-        "Licenciado Evaristo Carazo",
-        "General Fruto Chamorro"
-      ],
-      "correctIndex": 1,
-      "explanation": "El General Tomás Martínez rubricó el decreto de reubicación y habilitación de la aduana marítima en Punta Icaco en diciembre de 1858."
-    },
-    {
-      "id": 3,
-      "question": "¿A qué hecho geográfico o histórico debe su nombre la ciudad y puerto de Corinto desde su erección formal en 1861?",
-      "options": [
-        "Al istmo de Corinto en Grecia, por su similitud geográfica como franja entre dos cuerpos de agua.",
-        "A un militar europeo que financió la instalación del primer faro de navegación.",
-        "Al nombre aborigen de la deidad indígena náhuatl del estero de Paso Caballos.",
-        "A una embarcación de bandera holandesa que encalló en el muelle de la bahía."
-      ],
-      "correctIndex": 0,
-      "explanation": "Las autoridades designaron el nombre de Corinto en honor al célebre istmo griego, reconociendo la configuración batimétrica y costera de la península."
-    },
-    {
-      "id": 4,
-      "question": "¿Qué demanda originó el bloqueo naval y la toma de la aduana de Corinto por parte de buques británicos en abril de 1895?",
-      "options": [
-        "El cobro forzoso de una indemnización económica tras la expulsión del vicecónsul Edwin Hatch durante la reincorporación de la Mosquitia.",
-        "La disputa limítrofe marítima sobre la soberanía de los Cayos Miskitos.",
-        "El impago de los materiales importados para las locomotoras del ferrocarril.",
-        "La negativa de Nicaragua a conceder la ruta canalera por el río San Juan."
-      ],
-      "correctIndex": 0,
-      "explanation": "El Reino Unido desplegó la escuadra naval del almirante Stephenson exigiendo 15,000 libras esterlinas tras el arresto y expulsión de su funcionario consular en Bluefields."
-    },
-    {
-      "id": 5,
-      "question": "¿Qué trascendental obra literaria modernista escribió Rubén Darío durante su visita a la Isla El Cardón en las costas de Corinto en diciembre de 1907?",
-      "options": [
-        "Azul...",
-        "A Margarita Debayle",
-        "Marcha Triunfal",
-        "Cantos de vida y esperanza"
-      ],
-      "correctIndex": 1,
-      "explanation": "Dedicado a la niña Margarita Debayle Sacasa y redactado sobre las varillas de un abanico frente al faro de El Cardón, Darío compuso el poema que inicia con «Margarita, está linda la mar...»."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "question": "¿Cuál fue la causa determinante para que el gobierno nicaragüense ordenara el traslado de la aduana y puerto de El Realejo hacia Punta Icaco?",
+    "options": [
+      "La destrucción del antiguo puerto debido a la erupción del volcán San Cristóbal.",
+      "El azolvamiento y acumulación de sedimentos que impedía la navegación de barcos de vapor de gran calado.",
+      "Un ataque e incendio provocado por corsarios ingleses en 1858.",
+      "La construcción inmediata del ferrocarril interoceánico transistmico."
+    ],
+    "correctIndex": 1,
+    "explanation": "El lecho fluvial del río Doña Paula en El Realejo acumuló sedimentos que imposibilitaban el atraque seguro de buques de gran calado, obligando a reubicar la aduana en las aguas profundas de Punta Icaco."
+  },
+  {
+    "id": 2,
+    "question": "¿Qué gobernante promulgó el Decreto Ejecutivo del 20 de diciembre de 1858 que dio origen administrativo al asentamiento de Corinto?",
+    "options": [
+      "General José Santos Zelaya",
+      "General Tomás Martínez Guerrero",
+      "Licenciado Evaristo Carazo",
+      "General Fruto Chamorro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El General Tomás Martínez rubricó el decreto de reubicación y habilitación de la aduana marítima en Punta Icaco en diciembre de 1858."
+  },
+  {
+    "id": 3,
+    "question": "¿A qué hecho geográfico o histórico debe su nombre la ciudad y puerto de Corinto desde su erección formal en 1861?",
+    "options": [
+      "Al istmo de Corinto en Grecia, por su similitud geográfica como franja entre dos cuerpos de agua.",
+      "A un militar europeo que financió la instalación del primer faro de navegación.",
+      "Al nombre aborigen de la deidad indígena náhuatl del estero de Paso Caballos.",
+      "A una embarcación de bandera holandesa que encalló en el muelle de la bahía."
+    ],
+    "correctIndex": 0,
+    "explanation": "Las autoridades designaron el nombre de Corinto en honor al célebre istmo griego, reconociendo la configuración batimétrica y costera de la península."
+  },
+  {
+    "id": 4,
+    "question": "¿Qué demanda originó el bloqueo naval y la toma de la aduana de Corinto por parte de buques británicos en abril de 1895?",
+    "options": [
+      "El cobro forzoso de una indemnización económica tras la expulsión del vicecónsul Edwin Hatch durante la reincorporación de la Mosquitia.",
+      "La disputa limítrofe marítima sobre la soberanía de los Cayos Miskitos.",
+      "El impago de los materiales importados para las locomotoras del ferrocarril.",
+      "La negativa de Nicaragua a conceder la ruta canalera por el río San Juan."
+    ],
+    "correctIndex": 0,
+    "explanation": "El Reino Unido desplegó la escuadra naval del almirante Stephenson exigiendo 15,000 libras esterlinas tras el arresto y expulsión de su funcionario consular en Bluefields."
+  },
+  {
+    "id": 5,
+    "question": "¿Qué trascendental obra literaria modernista escribió Rubén Darío durante su visita a la Isla El Cardón en las costas de Corinto en diciembre de 1907?",
+    "options": [
+      "Azul...",
+      "A Margarita Debayle",
+      "Marcha Triunfal",
+      "Cantos de vida y esperanza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dedicado a la niña Margarita Debayle Sacasa y redactado sobre las varillas de un abanico frente al faro de El Cardón, Darío compuso el poema que inicia con «Margarita, está linda la mar...»."
+  }
+]

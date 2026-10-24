@@ -9,7 +9,7 @@
       "title": "El Traslado de Aduana y el Nacimiento del Puerto",
       "category": "Fundación y Reubicación",
       "year": "1858",
-      "image": "assets/img/cities/corinto/fundacion.webp",
+      "image": "assets/img/cities/corinto/fundacion.jpg",
       "imageCaption": "Trazado costero de la península de Punta Icaco y estero de Paso Caballos, zona designada para el nuevo fondeadero.",
       "content": [
         "Durante más de tres siglos, la ensenada colonial de El Realejo operó como el principal centro naval y astillero del Reino de Guatemala en el litoral pacífico. Sin embargo, hacia la primera mitad del siglo XIX, la progresiva acumulación de sedimentos y manglares en el lecho fluvial del río Doña Paula redujo drásticamente el calado navegable. Este fenómeno natural provocó el encallamiento sistemático de las nuevas embarcaciones mercantes impulsadas por vapor, las cuales exigían fondeaderos de aguas profundas para operar con seguridad.",
@@ -22,13 +22,22 @@
       },
       "sources": [
         {
-          "citation": "Pérez, J. (1975). Memorias para la historia de la Revolución de Nicaragua y de la Guerra Nacional: Colección de fuentes documentales (Vols. 1–2). Fondo de Promoción Cultural del Banco de América."
+          "author": "Pérez, Jerónimo",
+          "work": "Memorias para la Historia de la Revolución de Nicaragua y de la Guerra Nacional",
+          "year": "1975",
+          "page": "pp. 112-115"
         },
         {
-          "citation": "Esgueva Gómez, A. (1994). Leyes y disposiciones normativas de la República de Nicaragua: Decretos de administración y hacienda pública (1850–1890). Fondo Editorial del Banco Central de Nicaragua."
+          "author": "Esgueva Gómez, Antonio",
+          "work": "Leyes y disposiciones normativas de la República de Nicaragua",
+          "year": "1994",
+          "page": "pp. 45-48"
         },
         {
-          "citation": "Incer Barquero, J. (2000). Geografía dinámica de Nicaragua (3.ª ed.). Editorial Hispamer."
+          "author": "Incer Barquero, Jaime",
+          "work": "Geografía Dinámica de Nicaragua",
+          "year": "2000",
+          "page": "Cap. V, pp. 84-87"
         }
       ]
     },
@@ -37,7 +46,7 @@
       "title": "Diplomacia, Intervención y el Ferrocarril del Pacífico",
       "category": "Diplomacia e Infraestructura",
       "year": "1895",
-      "image": "assets/img/cities/corinto/muelle-historico.webp",
+      "image": "assets/img/cities/corinto/muelle-historico.jpg",
       "imageCaption": "Instalaciones del muelle de madera de Corinto e interconexión con las vías del Ferrocarril Nacional de Nicaragua.",
       "content": [
         "La consolidación del Estado liberal encabezado por el general José Santos Zelaya coincidió con el ascenso de Corinto como el nodo aduanero que concentraba más del 65% de las recaudaciones arancelarias y de comercio exterior de Nicaragua. Esta prominencia geopolítica convirtió al fondeadero en un punto vulnerable ante disputas diplomáticas con potencias extranjeras. En abril de 1895, en respuesta a la expulsión del vicecónsul británico pro-misquito Edwin Hatch durante el proceso de Reincorporación de la Mosquitia, el gobierno británico envió una escuadra naval comandada por el almirante Stephenson a bordo del acorazado HMS Royal Arthur.",
@@ -50,13 +59,22 @@
       },
       "sources": [
         {
-          "citation": "Bendaña, A. (1994). La crisis de 1895: El conflicto con Inglaterra y la ocupación de Corinto por la Marina Real. Revista de Historia, (5), 45–62. Instituto de Historia de Nicaragua y Centroamérica, Universidad Centroamericana (IHNCA-UCA)."
+          "author": "Bendaña, Alejandro",
+          "work": "La crisis de 1895: El conflicto con Inglaterra y la ocupación de Corinto por la Marina Real",
+          "year": "1994",
+          "page": "Revista de Historia, (5), pp. 45-62"
         },
         {
-          "citation": "Gámez, J. D. (1915). Historia moderna de Nicaragua: Complemento a los anales de la República y la administración liberal. Tipografía Nacional de Nicaragua."
+          "author": "Gámez, José Dolores",
+          "work": "Historia moderna de Nicaragua",
+          "year": "1915",
+          "page": "pp. 230-234"
         },
         {
-          "citation": "Arellano, J. E. (2003). Historia básica de Nicaragua (Vols. 1–2). Fondo Editorial CIRA."
+          "author": "Arellano, Jorge Eduardo",
+          "work": "Historia básica de Nicaragua",
+          "year": "2003",
+          "page": "Tomo II, pp. 88-91"
         }
       ]
     },
@@ -65,7 +83,7 @@
       "title": "Cultura, Tradición y la Huella Dariana en El Cardón",
       "category": "Cultura, Letras y Comunidad",
       "year": "1907",
-      "image": "assets/img/cities/corinto/isla-cardon.webp",
+      "image": "assets/img/cities/corinto/isla-cardon.jpg",
       "imageCaption": "Faro costero y litoral rocoso de la Isla El Cardón, santuario natural frente a la bahía de Corinto.",
       "content": [
         "Más allá de su papel mercantil y aduanero, Corinto ocupa un lugar de primer orden en la historia de la literatura universal por su estrecho lazo con el Modernismo hispanoamericano. En diciembre de 1907, durante el memorable retorno triunfal de Rubén Darío a su patria, el poeta se hospedó en el puerto para buscar sosiego frente al océano. El 13 de diciembre de ese mismo año, tras un paseo en balandra hacia el islote rocoso de El Cardón —donde funcionaba el faro marítimo de entrada a la bahía—, compuso en el abanico personal de la niña Margarita Debayle Sacasa uno de sus textos más célebres: el cuento en verso «A Margarita Debayle», inmortalizado con su inicial «Margarita, está linda la mar...».",
@@ -78,13 +96,22 @@
       },
       "sources": [
         {
-          "citation": "Darío, R. (2014). Poesía completa (R. Llopesa, Ed.; Edición crítica conmemorativa). Editorial Universitaria, Universidad Nacional Autónoma de Nicaragua (UNAN-León)."
+          "author": "Darío, Rubén",
+          "work": "Poesía completa (Edición crítica conmemorativa)",
+          "year": "2014",
+          "page": "pp. 302-305"
         },
         {
-          "citation": "Arellano, J. E. (2003). Historia básica de Nicaragua (Vols. 1–2). Fondo Editorial CIRA."
+          "author": "Arellano, Jorge Eduardo",
+          "work": "Historia básica de Nicaragua",
+          "year": "2003",
+          "page": "Tomo I, pp. 142-145"
         },
         {
-          "citation": "Instituto Nicaragüense de Estudios Territoriales. (2006). Monografía del municipio de Corinto, departamento de Chinandega: Ficha físico-geográfica y socioeconómica. Dirección General de Geodesia y Cartografía, INETER."
+          "author": "INETER",
+          "work": "Monografía del municipio de Corinto, departamento de Chinandega",
+          "year": "2006",
+          "page": "pp. 12-16"
         }
       ]
     }
