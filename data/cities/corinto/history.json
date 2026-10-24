@@ -2,98 +2,89 @@
   "cityId": "corinto",
   "cityName": "Corinto",
   "department": "Chinandega",
-  "country": "Nicaragua",
+  "description": "Puerto marítimo neurálgico del Pacífico nicaragüense, cuna de historia aduanera, diplomacia y lírica moderna.",
   "modules": [
     {
-      "id": "fundacion",
+      "id": "modulo-fundacion",
       "title": "El Traslado de Aduana y el Nacimiento del Puerto",
-      "period": "1858 – 1861",
-      "media": {
-        "src": "assets/img/cities/corinto/fundacion.webp",
-        "alt": "Plano histórico de la bahía de Corinto y Punta Icaco",
-        "caption": "Punta Icaco, zona designada para sustituir al puerto colonial de El Realejo.",
-        "credit": "Archivo Histórico Nacional"
-      },
+      "category": "Fundación y Reubicación",
+      "year": "1858",
+      "image": "assets/img/cities/corinto/fundacion.webp",
+      "imageCaption": "Trazado costero de la península de Punta Icaco y estero de Paso Caballos, zona designada para el nuevo fondeadero.",
       "content": [
-        "A mediados del siglo XIX, el histórico puerto colonial de El Realejo experimentó una marcada sedimentación en su vía fluvial, imposibilitando el atraque de los nuevos buques de vapor de gran calado que dominaban las rutas comerciales internacionales.",
-        "Ante esta crisis logística, el presidente de Nicaragua, General Tomás Martínez, promulgó el Decreto Ejecutivo No. 479 el 20 de diciembre de 1858, ordenando el traslado oficial de la aduana marítima hacia la península de Punta Icaco.",
-        "El nuevo asentamiento portuario fue bautizado formalmente en 1861 bajo el nombre de Corinto, en homenaje directo al célebre istmo de Corinto en Grecia debido a su privilegiada conformación geográfica costera."
+        "Durante más de tres siglos, la ensenada colonial de El Realejo operó como el principal centro naval y astillero del Reino de Guatemala en el litoral pacífico. Sin embargo, hacia la primera mitad del siglo XIX, la progresiva acumulación de sedimentos y manglares en el lecho fluvial del río Doña Paula redujo drásticamente el calado navegable. Este fenómeno natural provocó el encallamiento sistemático de las nuevas embarcaciones mercantes impulsadas por vapor, las cuales exigían fondeaderos de aguas profundas para operar con seguridad.",
+        "Frente a la inminente parálisis comercial de las rutas marítimas nacionales, el presidente provisorio de la República, General Tomás Martínez Guerrero, emitió el Decreto Ejecutivo del 20 de diciembre de 1858. Dicho mandato ordenó la clausura gradual de la aduana fluvial de El Realejo y la reubicación forzosa de la Receptoría Marítima y capitanía de puerto hacia la barra arenosa conocida como Punta Icaco, ubicada en el extremo meridional de la bahía.",
+        "Las obras de habilitación urbana y portuaria avanzaron con celeridad gracias a las ventajas batimétricas de la nueva localización, que permitía el atraque directo sin necesidad de transbordos en lanchones. En reconocimiento a su estratégica posición como istmo natural entre esteros y el océano abierto, la Asamblea Nacional Constituyente aprobó en 1861 elevar el asentamiento al rango formal de pueblo y puerto de altura bajo la denominación oficial de Corinto, en homenaje al célebre puerto e istmo homónimo de la Grecia clásica."
       ],
-      "keyFact": "Decreto Ejecutivo No. 479 promulgado el 20 de diciembre de 1858.",
+      "keyFact": {
+        "label": "Dato Clave",
+        "value": "El Decreto Ejecutivo del 20 de diciembre de 1858 transformó un banco deshabitado de manglar y arena en la terminal marítima de aguas profundas más determinante de la historia económica nicaragüense."
+      },
       "sources": [
         {
-          "title": "Monografía Histórica de los Puertos de Nicaragua",
-          "author": "Empresa Portuaria Nacional (EPN)",
-          "year": "2018",
-          "type": "Institucional"
+          "citation": "Pérez, J. (1975). Memorias para la historia de la Revolución de Nicaragua y de la Guerra Nacional: Colección de fuentes documentales (Vols. 1–2). Fondo de Promoción Cultural del Banco de América."
         },
         {
-          "title": "Gaceta Oficial del Gobierno de Nicaragua",
-          "author": "Archivo General de la Nación",
-          "year": "1858",
-          "type": "Decreto Histórico"
+          "citation": "Esgueva Gómez, A. (1994). Leyes y disposiciones normativas de la República de Nicaragua: Decretos de administración y hacienda pública (1850–1890). Fondo Editorial del Banco Central de Nicaragua."
+        },
+        {
+          "citation": "Incer Barquero, J. (2000). Geografía dinámica de Nicaragua (3.ª ed.). Editorial Hispamer."
         }
       ]
     },
     {
-      "id": "diplomacia-ferrocarril",
-      "title": "Puerta al Mundo: Diplomacia, Vapor y Soberanía",
-      "period": "1878 – 1904",
-      "media": {
-        "src": "assets/img/cities/corinto/muelle-historico.webp",
-        "alt": "Muelle de Corinto y vías del Ferrocarril del Pacífico",
-        "caption": "Muelle de madera y terminal ferroviaria de Corinto a finales del siglo XIX.",
-        "credit": "Colección Fotográfica Patrimonial"
-      },
+      "id": "modulo-ferrocarril-diplomacia",
+      "title": "Diplomacia, Intervención y el Ferrocarril del Pacífico",
+      "category": "Diplomacia e Infraestructura",
+      "year": "1895",
+      "image": "assets/img/cities/corinto/muelle-historico.webp",
+      "imageCaption": "Instalaciones del muelle de madera de Corinto e interconexión con las vías del Ferrocarril Nacional de Nicaragua.",
       "content": [
-        "La interconexión con el Ferrocarril del Pacífico de Nicaragua transformó a Corinto en la arteria económica fundamental del país, facilitando la salida masiva de las cosechas de café hacia mercados europeos y norteamericanos.",
-        "En 1878, el puerto fue escenario de tensión internacional durante el Incidente Eisenstuck, cuando buques de guerra de la Marina Imperial Alemana sitiaron la bahía exigiendo indemnizaciones al Estado nicaragüense, poniendo a prueba la soberanía nacional.",
-        "A inicios del siglo XX, su relevancia trascendió lo comercial al convertirse en sede diplomática de las Cumbres Presidenciales de Corinto (1902 y 1904), donde mandatarios centroamericanos firmaron trascendentales convenios de paz y arbitraje obligatorio para evitar conflictos armados en el istmo."
+        "La consolidación del Estado liberal encabezado por el general José Santos Zelaya coincidió con el ascenso de Corinto como el nodo aduanero que concentraba más del 65% de las recaudaciones arancelarias y de comercio exterior de Nicaragua. Esta prominencia geopolítica convirtió al fondeadero en un punto vulnerable ante disputas diplomáticas con potencias extranjeras. En abril de 1895, en respuesta a la expulsión del vicecónsul británico pro-misquito Edwin Hatch durante el proceso de Reincorporación de la Mosquitia, el gobierno británico envió una escuadra naval comandada por el almirante Stephenson a bordo del acorazado HMS Royal Arthur.",
+        "Las fuerzas navales de la Marina Real británica ocuparon militarmente el puerto, el telégrafo y los almacenes de aduana de Corinto durante varias semanas, imponiendo un bloqueo coactivo y exigiendo una compensación pecuniaria de 15,000 libras esterlinas al Estado nicaragüense. El conocido como «Incidente de Corinto» se saldó diplomáticamente tras intensas negociaciones respaldadas por mediaciones regionales e internacionales, devolviéndose el control soberano de los muelles una vez garantizado el compromiso financiero en plazas bancarias europeas.",
+        "Paralelamente a estos sucesos geopolíticos, la fisonomía económica de la ciudad experimentó un salto cualitativo definitivo gracias a la integración del Ferrocarril Nacional de Nicaragua (División Occidental). El tendido de las líneas férreas que enlazaban el muelle portuario con Chinandega, León, Managua y el muelle lacustre de Granada permitió que miles de quintales de café, azúcar y madera fina llegaran de forma directa a las bodegas de atraque, consagrando a Corinto como el motor agroexportador por excelencia del Pacífico centroamericano."
       ],
-      "keyFact": "Sede de las Cumbres Presidenciales Centroamericanas de Paz en 1902 y 1904.",
+      "keyFact": {
+        "label": "Dato Clave",
+        "value": "Durante la ocupación británica de 1895, la aduana de Corinto fue tomada militarmente como garantía financiera, demostrando que este puerto representaba el corazón fiscal de las finanzas públicas de Nicaragua."
+      },
       "sources": [
         {
-          "title": "Historia Diplomática de Nicaragua",
-          "author": "Ministerio de Relaciones Exteriores",
-          "year": "2005",
-          "type": "Archivo Cancillería"
+          "citation": "Bendaña, A. (1994). La crisis de 1895: El conflicto con Inglaterra y la ocupación de Corinto por la Marina Real. Revista de Historia, (5), 45–62. Instituto de Historia de Nicaragua y Centroamérica, Universidad Centroamericana (IHNCA-UCA)."
         },
         {
-          "title": "El Ferrocarril del Pacífico y la Economía Nacional",
-          "author": "Instituto de Historia de Nicaragua",
-          "year": "1999",
-          "type": "Ensayo Académico"
+          "citation": "Gámez, J. D. (1915). Historia moderna de Nicaragua: Complemento a los anales de la República y la administración liberal. Tipografía Nacional de Nicaragua."
+        },
+        {
+          "citation": "Arellano, J. E. (2003). Historia básica de Nicaragua (Vols. 1–2). Fondo Editorial CIRA."
         }
       ]
     },
     {
-      "id": "letras-tradicion",
-      "title": "Versos en El Cardón y el Mito del Punche Dorado",
-      "period": "1908 – Tradición Oral",
-      "media": {
-        "src": "assets/img/cities/corinto/isla-cardon.webp",
-        "alt": "Faro de la Isla El Cardón frente a las costas de Corinto",
-        "caption": "Isla El Cardón, santuario costero donde Rubén Darío compuso su célebre poema.",
-        "credit": "Fotografía: Dominio Público"
-      },
+      "id": "modulo-cultura-dario",
+      "title": "Cultura, Tradición y la Huella Dariana en El Cardón",
+      "category": "Cultura, Letras y Comunidad",
+      "year": "1907",
+      "image": "assets/img/cities/corinto/isla-cardon.webp",
+      "imageCaption": "Faro costero y litoral rocoso de la Isla El Cardón, santuario natural frente a la bahía de Corinto.",
       "content": [
-        "En 1908, el máximo exponente de las letras hispanas, Rubén Darío, se alojó en la Isla El Cardón, situada frente a la bahía de Corinto. Cautivado por el océano y la luz del faro, compuso allí uno de sus poemas más universales: 'A Margarita Debayle' ('Margarita, está linda la mar...').",
-        "Más allá de la literatura formal, los pobladores y pescadores de Corinto preservan la leyenda del 'Punche de Oro', un crustáceo místico de caparazón brillante que se deja ver en las noches de luna baja por las playas y esteros.",
-        "El relato popular asegura que el destello hipnótico del animal desorienta a quienes intentan atraparlo, conduciéndolos a perderse en el laberinto de los manglares costeros."
+        "Más allá de su papel mercantil y aduanero, Corinto ocupa un lugar de primer orden en la historia de la literatura universal por su estrecho lazo con el Modernismo hispanoamericano. En diciembre de 1907, durante el memorable retorno triunfal de Rubén Darío a su patria, el poeta se hospedó en el puerto para buscar sosiego frente al océano. El 13 de diciembre de ese mismo año, tras un paseo en balandra hacia el islote rocoso de El Cardón —donde funcionaba el faro marítimo de entrada a la bahía—, compuso en el abanico personal de la niña Margarita Debayle Sacasa uno de sus textos más célebres: el cuento en verso «A Margarita Debayle», inmortalizado con su inicial «Margarita, está linda la mar...».",
+        "El entorno insular de El Cardón, preservado como hito patrimonial e histórico del municipio, sintetiza la relación simbiótica entre el mar y las artes nicaragüenses. Las crónicas periodísticas de la época dan cuenta de cómo la serenidad de los atardeceres y la arquitectura de madera de estilo vernáculo caribeño-portuario que predominaba en el Corinto de fin de siglo ejercieron una notable fascinación en cronistas, viajeros y diplomáticos extranjeros que desembarcaban en territorio nacional.",
+        "En el ámbito de las tradiciones comunitarias e inmateriales, la identidad corinteña se manifiesta con vigor en la devoción a la Santa Cruz y a San Jerónimo Doctor, así como en su emblemática Feria Gastronómica del Mar. Fundada a inicios de los años 1990 por iniciativa de la religiosa Sor Josefina Serrano y el comité cívico parroquial, este evento anual moviliza a la comunidad pesquera y artesanal para ofertar decenas de platillos derivados de mariscos, transformando el rescate de las recetas costeras en un fondo solidario directo en beneficio del asilo de ancianos Santa Eduviges."
       ],
-      "keyFact": "El poema 'A Margarita Debayle' fue escrito en la bahía de Corinto en 1908.",
+      "keyFact": {
+        "label": "Dato Clave",
+        "value": "El faro y las costas de la Isla El Cardón en Corinto fueron el escenario de inspiración directa donde Rubén Darío inmortalizó uno de los poemas cumbre de la lengua hispanohablante en 1907."
+      },
       "sources": [
         {
-          "title": "Biografía de Rubén Darío: Vida y Obra",
-          "author": "Edelmiro Torres",
-          "year": "1966",
-          "type": "Bibliografía Literaria"
+          "citation": "Darío, R. (2014). Poesía completa (R. Llopesa, Ed.; Edición crítica conmemorativa). Editorial Universitaria, Universidad Nacional Autónoma de Nicaragua (UNAN-León)."
         },
         {
-          "title": "Mitos y Tradiciones de la Costa del Pacífico",
-          "author": "Recopilación de Tradición Oral",
-          "year": "2012",
-          "type": "Patrimonio Cultural"
+          "citation": "Arellano, J. E. (2003). Historia básica de Nicaragua (Vols. 1–2). Fondo Editorial CIRA."
+        },
+        {
+          "citation": "Instituto Nicaragüense de Estudios Territoriales. (2006). Monografía del municipio de Corinto, departamento de Chinandega: Ficha físico-geográfica y socioeconómica. Dirección General de Geodesia y Cartografía, INETER."
         }
       ]
     }
