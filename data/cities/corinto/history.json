@@ -1,0 +1,101 @@
+{
+  "cityId": "corinto",
+  "cityName": "Corinto",
+  "department": "Chinandega",
+  "country": "Nicaragua",
+  "modules": [
+    {
+      "id": "fundacion",
+      "title": "El Traslado de Aduana y el Nacimiento del Puerto",
+      "period": "1858 – 1861",
+      "media": {
+        "src": "assets/img/cities/corinto/fundacion.webp",
+        "alt": "Plano histórico de la bahía de Corinto y Punta Icaco",
+        "caption": "Punta Icaco, zona designada para sustituir al puerto colonial de El Realejo.",
+        "credit": "Archivo Histórico Nacional"
+      },
+      "content": [
+        "A mediados del siglo XIX, el histórico puerto colonial de El Realejo experimentó una marcada sedimentación en su vía fluvial, imposibilitando el atraque de los nuevos buques de vapor de gran calado que dominaban las rutas comerciales internacionales.",
+        "Ante esta crisis logística, el presidente de Nicaragua, General Tomás Martínez, promulgó el Decreto Ejecutivo No. 479 el 20 de diciembre de 1858, ordenando el traslado oficial de la aduana marítima hacia la península de Punta Icaco.",
+        "El nuevo asentamiento portuario fue bautizado formalmente en 1861 bajo el nombre de Corinto, en homenaje directo al célebre istmo de Corinto en Grecia debido a su privilegiada conformación geográfica costera."
+      ],
+      "keyFact": "Decreto Ejecutivo No. 479 promulgado el 20 de diciembre de 1858.",
+      "sources": [
+        {
+          "title": "Monografía Histórica de los Puertos de Nicaragua",
+          "author": "Empresa Portuaria Nacional (EPN)",
+          "year": "2018",
+          "type": "Institucional"
+        },
+        {
+          "title": "Gaceta Oficial del Gobierno de Nicaragua",
+          "author": "Archivo General de la Nación",
+          "year": "1858",
+          "type": "Decreto Histórico"
+        }
+      ]
+    },
+    {
+      "id": "diplomacia-ferrocarril",
+      "title": "Puerta al Mundo: Diplomacia, Vapor y Soberanía",
+      "period": "1878 – 1904",
+      "media": {
+        "src": "assets/img/cities/corinto/muelle-historico.webp",
+        "alt": "Muelle de Corinto y vías del Ferrocarril del Pacífico",
+        "caption": "Muelle de madera y terminal ferroviaria de Corinto a finales del siglo XIX.",
+        "credit": "Colección Fotográfica Patrimonial"
+      },
+      "content": [
+        "La interconexión con el Ferrocarril del Pacífico de Nicaragua transformó a Corinto en la arteria económica fundamental del país, facilitando la salida masiva de las cosechas de café hacia mercados europeos y norteamericanos.",
+        "En 1878, el puerto fue escenario de tensión internacional durante el Incidente Eisenstuck, cuando buques de guerra de la Marina Imperial Alemana sitiaron la bahía exigiendo indemnizaciones al Estado nicaragüense, poniendo a prueba la soberanía nacional.",
+        "A inicios del siglo XX, su relevancia trascendió lo comercial al convertirse en sede diplomática de las Cumbres Presidenciales de Corinto (1902 y 1904), donde mandatarios centroamericanos firmaron trascendentales convenios de paz y arbitraje obligatorio para evitar conflictos armados en el istmo."
+      ],
+      "keyFact": "Sede de las Cumbres Presidenciales Centroamericanas de Paz en 1902 y 1904.",
+      "sources": [
+        {
+          "title": "Historia Diplomática de Nicaragua",
+          "author": "Ministerio de Relaciones Exteriores",
+          "year": "2005",
+          "type": "Archivo Cancillería"
+        },
+        {
+          "title": "El Ferrocarril del Pacífico y la Economía Nacional",
+          "author": "Instituto de Historia de Nicaragua",
+          "year": "1999",
+          "type": "Ensayo Académico"
+        }
+      ]
+    },
+    {
+      "id": "letras-tradicion",
+      "title": "Versos en El Cardón y el Mito del Punche Dorado",
+      "period": "1908 – Tradición Oral",
+      "media": {
+        "src": "assets/img/cities/corinto/isla-cardon.webp",
+        "alt": "Faro de la Isla El Cardón frente a las costas de Corinto",
+        "caption": "Isla El Cardón, santuario costero donde Rubén Darío compuso su célebre poema.",
+        "credit": "Fotografía: Dominio Público"
+      },
+      "content": [
+        "En 1908, el máximo exponente de las letras hispanas, Rubén Darío, se alojó en la Isla El Cardón, situada frente a la bahía de Corinto. Cautivado por el océano y la luz del faro, compuso allí uno de sus poemas más universales: 'A Margarita Debayle' ('Margarita, está linda la mar...').",
+        "Más allá de la literatura formal, los pobladores y pescadores de Corinto preservan la leyenda del 'Punche de Oro', un crustáceo místico de caparazón brillante que se deja ver en las noches de luna baja por las playas y esteros.",
+        "El relato popular asegura que el destello hipnótico del animal desorienta a quienes intentan atraparlo, conduciéndolos a perderse en el laberinto de los manglares costeros."
+      ],
+      "keyFact": "El poema 'A Margarita Debayle' fue escrito en la bahía de Corinto en 1908.",
+      "sources": [
+        {
+          "title": "Biografía de Rubén Darío: Vida y Obra",
+          "author": "Edelmiro Torres",
+          "year": "1966",
+          "type": "Bibliografía Literaria"
+        },
+        {
+          "title": "Mitos y Tradiciones de la Costa del Pacífico",
+          "author": "Recopilación de Tradición Oral",
+          "year": "2012",
+          "type": "Patrimonio Cultural"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "defaultCity": "corinto",
+  "cities": [
+    {
+      "id": "corinto",
+      "name": "Corinto",
+      "department": "Chinandega",
+      "heroSubtitle": "Cuna del comercio marítimo moderno y memoria histórica de Nicaragua",
+      "enabled": true
+    }
+  ]
+}

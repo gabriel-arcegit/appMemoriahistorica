@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Plataforma de divulgación histórica municipal y rescate patrimonial de Nicaragua. Descubre la historia, hitos marítimos, diplomacia y tradiciones de Corinto.">
+  <title>Nicaragua Histórica | Corinto: Memoria, Puerto y Tradición</title>
+
+  <!-- Hojas de estilo modulares -->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/modules.css">
+  <link rel="stylesheet" href="css/quiz.css">
+</head>
+<body>
+
+  <!-- Encabezado institucional y navegación por pestañas -->
+  <header class="site-header">
+    <div class="header-inner container">
+      <div class="brand-group">
+        <h1 class="site-brand">Nicaragua Histórica</h1>
+        <p id="city-subtitle" class="city-subtitle">Corinto: Memoria, Puerto y Tradición</p>
+      </div>
+      
+      <nav class="nav-tabs-wrapper" role="tablist" aria-label="Navegación principal de secciones">
+        <button id="tab-history" role="tab" aria-selected="true" aria-controls="history-section" class="nav-tab active">
+          Historia y Patrimonio
+        </button>
+        <button id="tab-quiz" role="tab" aria-selected="false" aria-controls="quiz-section" class="nav-tab">
+          Trivia Interactiva
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Contenido principal interactivo -->
+  <main class="container">
+    <!-- Sección 1: Ejes Temáticos e Historia Municipal -->
+    <section id="history-section" role="tabpanel" aria-labelledby="tab-history">
+      <nav id="module-tabs" class="module-tabs" aria-label="Ejes temáticos"></nav>
+      <div id="history-display" class="history-display" aria-live="polite"></div>
+    </section>
+
+    <!-- Sección 2: Trivia y Evaluación Formativa -->
+    <section id="quiz-section" role="tabpanel" aria-labelledby="tab-quiz" class="hidden">
+      <div id="quiz-display" class="quiz-display"></div>
+    </section>
+  </main>
+
+  <!-- Pie de página institucional y atribución -->
+  <footer class="site-footer">
+    <div class="footer-content container">
+      <p class="footer-academic">
+        <strong>Proyecto de Divulgación y Rescate del Patrimonio Histórico Municipal</strong> &bull; Iniciativa académica universitaria de acceso abierto orientada a preservar la memoria comunitaria, los hitos portuarios y la tradición oral de Nicaragua.
+      </p>
+      <p class="footer-attribution">
+        Contenido documental y multimedia recopilado estrictamente con propósitos educativos, didácticos y de libre difusión cultural. Fuentes historiográficas y archivos patrimoniales debidamente acreditados en cada módulo temático.
+      </p>
+      <p class="footer-copy">
+        &copy; 2026 Nicaragua Histórica &bull; Municipio Piloto: Corinto, Chinandega.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Script modular de inicialización -->
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
